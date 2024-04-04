@@ -57,7 +57,7 @@ Key Features: Grid system, hover effects, image and text sections.
 Description: Build a slider to showcase client or customer testimonials.
 Key Features: Auto-slide or arrow navigation, avatar, quotes.
 
-15. Contact Form  ----**completed**
+15. Contact Form  ----**completed**<br>
 Description: Create a stylish contact form with validation.
 Key Features: Input fields, text area, submit button, form validation.
 
